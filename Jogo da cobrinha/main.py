@@ -1,4 +1,4 @@
-# configurações iniciais
+# configurações iniciai
 import pygame
 import random
 
